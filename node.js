@@ -1,1 +1,1 @@
-console.log("THI IS NODE")
+console.log("THI IS A COMMAND")
